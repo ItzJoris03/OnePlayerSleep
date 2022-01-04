@@ -1,0 +1,6 @@
+name: OnePlayerSleep
+version: '${project.version}'
+main: me.itzjoris03.oneplayersleep.OnePlayerSleep
+api-version: 1.18
+authors: [ ItzJoris03 ]
+description: On a world with multiple players, if one player goes to bed, the world time will be changed to day time.
